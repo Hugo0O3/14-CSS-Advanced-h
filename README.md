@@ -1,7 +1,7 @@
 # Exercices
 C'est ici que ça se passe ➡️➡️
-🔗 https://hugo0o3.github.io/14-CSS-ADVANCED-H/ex8/index.html
-🔗 https://hugo0o3.github.io/14-CSS-ADVANCED-H/ex8Bis/index.html
+🔗 https://hugo0o3.github.io/14-CSS-Advanced-h/ex8/index.html
+🔗 https://hugo0o3.github.io/14-CSS-Advanced-h/ex8Bis/index.html
 
 # CSS TRAINING - Advanced
 
