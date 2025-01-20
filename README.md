@@ -1,5 +1,9 @@
-# CSS TRAINING - Advanced
+# Exercices
+C'est ici que ça se passe ➡️➡️
+🔗 https://hugo0o3.github.io/14-CSS-ADVANCED-H/ex8/index.html
+🔗 https://hugo0o3.github.io/14-CSS-ADVANCED-H/ex8Bis/index.html
 
+# CSS TRAINING - Advanced
 
 Hello again !!! Welcome back to the CSS track, but now the advanced part !!!
 
@@ -39,4 +43,3 @@ But first of all, read these [Usefull tips](00-CSS-Usefull-tips.md)
 - [Style SVG](https://www.freecodecamp.org/news/how-to-use-css-box-model-and-style-svg-images/#:~:text=How%20to%20Style%20SVG%20Images)
 - [CSS Custom variables](https://developer.mozilla.org/en-US/docs/Web/CSS/--*) 
 - [BEM](https://css-tricks.com/bem-101/)                  
-# 14-CSS-Advanced-h
